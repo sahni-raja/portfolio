@@ -4,6 +4,13 @@ This repository contains the source code for my **personal portfolio website**, 
 The portfolio highlights my **skills, projects, certifications, education, and internship experience** in a clean, modern, and professional layout.
 
 ---
+## 🚀 Live Demo
+
+(https://sahni-raja.github.io/portfolio/)
+
+🔗 **Visit Website**: [https://sahni-raja.github.io/portfolio](https://sahni-raja.github.io/portfolio/)
+
+---
 
 ## 👨‍💻 About Me
 I am a **final-year B.Tech Computer Science and Engineering student** with a strong interest in **software development and full-stack web technologies**. I enjoy building real-world applications, learning new technologies, and improving my problem-solving skills.  
